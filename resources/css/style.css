@@ -31,3 +31,16 @@ a {
   color: white;
   font-size: 18px;
 }
+
+h4 {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+}
+
+section {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+}
